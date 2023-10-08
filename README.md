@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <strong>Open-Source Funkin Script Assistant And AutoComplete Using VSCode Extensions</strong>
+  <strong>Open-Source Funkin Script Assistant And AutoCompleter Using VSCode Extensions</strong>
 </p>
 
 <p align="left">
