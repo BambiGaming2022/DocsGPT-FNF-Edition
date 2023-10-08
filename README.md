@@ -1,15 +1,15 @@
 <h1 align="center">
-  DocsGPT  🦖
+  DocsGPT  FNF Edition
 </h1>
 
 <p align="center">
-  <strong>Open-Source Documentation Assistant</strong>
+  <strong>Open-Source Funkin Script Assistant And AutoComplete Using VSCode Extensions</strong>
 </p>
 
 <p align="left">
-  <strong>DocsGPT</strong> is a cutting-edge open-source solution that streamlines the process of finding information in project documentation. With its integration of the powerful <strong>GPT</strong> models, developers can easily ask questions about a project and receive accurate answers.
+  <strong>DocsGPT FNF Edition</strong> is a cutting-edge open-source solution that streamlines the process of finding information in project documentation and coding lua and hx for you. With its integration of the powerful <strong>GPT</strong> models, developers can easily ask questions about a project and receive accurate answers and codes.
   
-Say goodbye to time-consuming manual searches, and let <strong>DocsGPT</strong> help you quickly find the information you need. Try it out and see how it revolutionizes your project documentation experience. Contribute to its development and be a part of the future of AI-powered assistance.
+Say goodbye to time-consuming manual searches, and let <strong>DocsGPT FNF Edition</strong> help you quickly find the information you need. Try it out and see how it revolutionizes your project documentation and code experience. Contribute to its development and be a part of the future of AI-powered fnf assistance.
 </p>
 
 <div align="center">
@@ -27,7 +27,7 @@ We're eager to provide personalized assistance when deploying your DocsGPT to a 
 - [Get Support 👋](https://airtable.com/appdeaL0F1qV8Bl2C/shrrJF1Ll7btCJRbP)
 - [Send Email ✉️](mailto:contact@arc53.com?subject=DocsGPT%20support%2Fsolutions)
   
-### [🎉 Join the Hacktoberfest with DocsGPT and Earn a Free T-shirt! 🎉](https://github.com/arc53/DocsGPT/blob/main/HACKTOBERFEST.md)
+### [🎉 Join the Hacktoberfest with DocsGPT FNF Edition and Earn a Free T-shirt! 🎉]
 
 ![video-example-of-docs-gpt](https://d3dg1063dc54p9.cloudfront.net/videos/demov3.gif)
 
